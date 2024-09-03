@@ -21,8 +21,6 @@ The **Simple Calculator** is a web-based application that allows users to perfor
 - **CSS**: Styles the calculator interface, ensuring a clean and responsive design.
 - **JavaScript**: Manages the calculation logic and user interactions.
 
-
-
 ## Installation
 
 To get started with the project, follow these steps:
